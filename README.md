@@ -7,4 +7,4 @@
 4. Mysql
 
 ### Feature
-Analysis Structure of webpages, detect the changes, detect defacement on webpageand  push notifications to client.
+Analysis Structure of webpages, detect the changes, detect defacement on webpage and  push notifications to client.
